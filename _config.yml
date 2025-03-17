@@ -1,9 +1,9 @@
 ### Site metadata
 
-title: Artist's Portfolio
+title: DALE WHISTLER, ARTIST
 description: A gallery of images for an artist's portfolio, built with Jekyll
 
-url: "https://artists-portfolio.netlify.app"
+url: "https://rectalogic.com/"
 baseurl: ""
 
 github_username: "MichaelCurrin"
@@ -14,10 +14,10 @@ google_analytics_key: ""
 # For SEO tag.
 logo: /siteicon.png
 author:
-  name: Michael Currin
+  name: Dale Whistler
   twitter:
 social:
-  name: Artist's Portfolio
+  name: DALE WHISTLER, ARTIST
   links:
     - https://github.com/MichaelCurrin/artists-portfolio
 
@@ -46,5 +46,3 @@ exclude:
   - README.md
   - LICENSE
   - LICENCE-source
-  - Makefile
-  - netlify.toml
