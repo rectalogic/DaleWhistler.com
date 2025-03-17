@@ -28,7 +28,7 @@ jobs:
           ruby-version: 3.4
           bundler-cache: true
       - name: Install graphicsmagick
-        run: apt-get update && apt-get install -y graphicsmagick
+        run: sudo apt-get update && sudo apt-get install -y graphicsmagick
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
